@@ -1,5 +1,6 @@
 # tailwind-react-boilerplate :snowflake:
 
+
 [![GitHub license](https://img.shields.io/github/license/toughyear/tailwind-react-boilerplate?style=flat-square)](https://github.com/toughyear/tailwind-react-boilerplate/blob/master/LICENSE) [![Tailwind CSS](https://img.shields.io/badge/tailwind-css-blue?style=flat-square)](https://tailwindcss.com/) [![GitHub stars](https://img.shields.io/github/stars/toughyear/tailwind-react-boilerplate?style=flat-square)](https://github.com/toughyear/tailwind-react-boilerplate/stargazers)
 
 #### [Go to Live Demo :arrow_upper_right:](https://tailwind-react-boilerplate.now.sh/)
